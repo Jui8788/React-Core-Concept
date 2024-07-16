@@ -7,7 +7,6 @@ const Brother = () => {
   return (
     <div>
       <h2>Brother</h2>
-      <p>GrandPa: {money}</p>
     </div>
   );
 };
